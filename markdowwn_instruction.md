@@ -10,7 +10,19 @@ Bold: For example, **like that** or using __ __like that__.
 
 ## Списки
 
+<<<<<<< HEAD
 Чтобы выделить ненумерованный список, используйте (*)
+=======
+Non-numbered list:
+* element_1
+* element_2
+* element_3
+
+Numbered list:
+1. element_1
+2. element_2
+3. element_3
+>>>>>>> lists
 
 ## Работа с изображениями
 
