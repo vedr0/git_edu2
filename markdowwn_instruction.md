@@ -10,6 +10,8 @@ Bold: For example, **like that** or using __ __like that__.
 
 ## Списки
 
+Чтобы выделить ненумерованный список, используйте (*)
+
 ## Работа с изображениями
 
 To instert an image you have to do this:
