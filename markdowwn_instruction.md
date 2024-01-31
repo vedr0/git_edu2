@@ -10,11 +10,13 @@ Bold: For example, **like that** or using __ __like that__.
 
 ## Списки
 
-Чтобы выделить ненумерованный список, используйте (*)
+Чтобы выделить ненумерованный список, используйте (*) или знаком +.
+
 Non-numbered list:
 * element_1
 * element_2
 * element_3
++ element_4
 
 Numbered list:
 1. element_1
@@ -24,12 +26,23 @@ Numbered list:
 ## Работа с изображениями
 
 To instert an image you have to do this:
+
 ![Foggy mountains](image_1.jpg)
 
 ## Ссылки
 
+To insert a website link you have to do this:
+
+[markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
 ## Работа с таблицами
 
 ## Цитаты
+
+You can quote a text by using (>) symbol, to double quote use (>>):
+
+> hello
+
+>>world
 
 ## Заключение
