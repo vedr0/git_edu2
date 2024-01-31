@@ -52,3 +52,7 @@ You can quote a text by using (>) symbol, to double quote use (>>):
 
 ## Дополнительно
 
+cmd commands:
++ directory change - `cd C:\folder_name`
++ current directory listing - `dir`
++ file deletion - `del <filename>`
