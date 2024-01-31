@@ -37,6 +37,11 @@ To insert a website link you have to do this:
 
 ## Работа с таблицами
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ## Цитаты
 
 You can quote a text by using (>) symbol, to double quote use (>>):
