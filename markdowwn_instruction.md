@@ -56,3 +56,16 @@ cmd commands:
 + directory change - `cd C:\folder_name`
 + current directory listing - `dir`
 + file deletion - `del <filename>`
+
+## GitHub instructions
+
+### Клонирование
+
+Чтобы создать свою копию уже имеющегося на GitHub репозитория на своем ПК нужно:
+
+1. Открыть имеющийся на GitHub репозиторий (public or private) и скопировать ссылку на него нажав на кнопку '<> Code'.
+2. В терминале на своем ПК написать команду `git clone <link>` (например `git clone https://github.com/ShafigullinIK/guess_the_number.git`).
+
+`git pull` - позволяет скачать все из текущего репозитория и автоматически сделать `merge` с нашей версией
+
+`git push` - позволяет отправить нашу версию репозитория на внешний репозиторий (требует авторизации на внешнем репозитории)
