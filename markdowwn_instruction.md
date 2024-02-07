@@ -78,3 +78,5 @@ cmd commands:
 
 ## Blackholes
 
+![blackhole_1](image_2.jpg)
+![blackhole_2](image_3.jpg)
