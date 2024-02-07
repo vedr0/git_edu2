@@ -76,7 +76,7 @@ cmd commands:
     * `git branch -M main`
     * `git push -u origin main`
 
-## Blackholes
+## Blackhole
 
 ![blackhole_1](image_2.jpg)
 ![blackhole_2](image_3.jpg)
