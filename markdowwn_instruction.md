@@ -75,3 +75,6 @@ cmd commands:
     * `git remote add origin https://github.com/vedr0/git_edu2.git`
     * `git branch -M main`
     * `git push -u origin main`
+
+## Blackholes
+
