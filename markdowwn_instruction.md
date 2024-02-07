@@ -80,4 +80,4 @@ cmd commands:
 
 ![blackhole_1](image_2.jpg)
 ![blackhole_2](image_3.jpg)
-![stewie_griffin](stewie.jpg)
+![blackhole_3](image_4.jpg)
